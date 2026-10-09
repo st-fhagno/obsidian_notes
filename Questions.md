@@ -18,3 +18,9 @@ murphy?
 - [x] client deflection - ucieczka clienta
 
 - [x] DPA is handled as part of process? - deep auth process
+
+steps to go through to buy:
+
+
+steps to go through to modify:
+
