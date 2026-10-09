@@ -9,7 +9,7 @@ small change - do 7 tyg developera
 
 - [x] fraud detection?
 
-- [x] wiz?
+- [x] wiz?p
 
 - [x] optimazely
 
