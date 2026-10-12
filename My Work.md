@@ -7,21 +7,22 @@ kanban-plugin: board
 ## TODO
 
 - [ ] Faktura na koniec miesiaca @{2026-10-30} @@{15:00}
-- [ ] DK: Telematics
-- [ ] DK: Cyber Insurance
+- [ ] Claude code full course
 
 
 ## In Progress
 
 - [ ] DigitalFirstDeliveryPlan
-- [ ] DK: GAP insurance
 - [ ] Current SPrint - look through
 
 
 ## Done
 
 - [ ] DK: Trends and tech
+- [ ] DK: Telematics
+- [ ] DK: Cyber Insurance
 - [ ] DK:Embedded INsurance
+- [ ] DK: GAP insurance
 - [ ] DK: Reinsurannce
 - [ ] DK: Weidest policies
 - [ ] Digitak first presentation ahead of meeting
