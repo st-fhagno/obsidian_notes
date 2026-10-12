@@ -7,7 +7,6 @@ kanban-plugin: board
 ## TODO
 
 - [ ] Faktura na koniec miesiaca @{2026-10-30} @@{15:00}
-- [ ] DK: GAP insurance
 - [ ] DK: Telematics
 - [ ] DK: Cyber Insurance
 
@@ -15,6 +14,7 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] DigitalFirstDeliveryPlan
+- [ ] DK: GAP insurance
 - [ ] Current SPrint - look through
 
 
