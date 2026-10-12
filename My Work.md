@@ -7,19 +7,20 @@ kanban-plugin: board
 ## TODO
 
 - [ ] Faktura na koniec miesiaca @{2026-10-30} @@{15:00}
-- [ ] Claude code full course
+- [ ] Claude code - kodree - full practical course
 
 
 ## In Progress
 
 - [ ] DigitalFirstDeliveryPlan
-- [ ] Current SPrint - look through
+- [ ] Claude code full course - udemy
 
 
 ## Done
 
 - [ ] DK: Trends and tech
 - [ ] DK: Telematics
+- [ ] Current SPrint - look through
 - [ ] DK: Cyber Insurance
 - [ ] DK:Embedded INsurance
 - [ ] DK: GAP insurance
