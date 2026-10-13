@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Faktura na koniec miesiaca @{2026-10-30} @@{15:00}
 - [ ] Claude code - kodree - full practical course
+- [ ] Prezentacja Mateusz  - przejrzec
 
 
 ## In Progress
