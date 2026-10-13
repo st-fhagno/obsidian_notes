@@ -14,3 +14,6 @@ Retail:
 Gary - retail
 Leigh - head of retail (second brand sponsor)
 
+
+Marketing:
+Andrea - marketing guy
