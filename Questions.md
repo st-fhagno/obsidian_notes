@@ -1,6 +1,6 @@
 fhagno@policyexpert.co.uk
 - [x] slate - grube tematy
-small change - do 7 tyg developera
+- [x] small change - do 7 tyg developera
 
 
 - [x] PCW, CTM, QuoteZone;) - aggregatorzy 
@@ -13,7 +13,7 @@ small change - do 7 tyg developera
 
 - [x] optimazely
 
-murphy?
+- [x] murphy?
 
 - [x] client deflection - ucieczka clienta
 
